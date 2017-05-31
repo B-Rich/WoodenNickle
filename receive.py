@@ -32,7 +32,7 @@ def recv():
 
 requested_amnt = 1 # TODO: This should be chosen by the user!
 
-bank_url = 'http://localhost:8228'
+bank_url = 'http://104.199.121.149:8228'
 
 # Generate keys
 keysize = 2048

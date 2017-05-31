@@ -19,7 +19,7 @@ def hex2bin(hexStr):
 
 keysize = 2048
 
-bank_url = 'http://localhost:8228'
+bank_url = 'http://104.199.121.149:8228'
 
 global_target = 4e71
 

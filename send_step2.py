@@ -51,7 +51,7 @@ cheque_str = '_'.join((cheque_amnt, coin_public_key_hex, coin_nonce,))
 
 coin_private_key = RSA.importKey(hex2bin(coin_private_key_hex))
 
-bank_url = 'http://localhost:8228'
+bank_url = 'http://104.199.121.149:8228'
 
 s = socket.socket()
 host = '104.199.121.149'
